@@ -31,6 +31,7 @@ The following steps are followed in the project :-
 
 ## Files included with the dataset
 * run_analysis.R
+* tidy_dataset.txt
 * README.md
 * CodeBook.md
 * Human Activity Recognition Using Smartphones Dataset
